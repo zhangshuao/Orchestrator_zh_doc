@@ -71,7 +71,7 @@ orchestrator支持：
 
 **Developers开发者**
 
-    阅读开发者文档（https://hub.fastgit.org/openark/orchestrator/blob/master/docs/developers.md），开始开发Orchestrator。谢谢你的关注！
+    阅读开发者文档（https://github.com/openark/orchestrator/blob/master/docs/developers.md），开始开发Orchestrator。谢谢你的关注！
     
 **License许可证**
 
